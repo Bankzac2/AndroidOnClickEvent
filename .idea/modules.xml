@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidOnClickEvent.iml" filepath="$PROJECT_DIR$/AndroidOnClickEvent.iml" />
+      <module fileurl="file://C:\Users\MSI\Desktop\Project\dpotikan-eazydocker_android_app-2016-46490f2b49b9\AndroidOnClickEvent2\AndroidOnClickEvent.iml" filepath="C:\Users\MSI\Desktop\Project\dpotikan-eazydocker_android_app-2016-46490f2b49b9\AndroidOnClickEvent2\AndroidOnClickEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidOnClickEvent2.iml" filepath="$PROJECT_DIR$/AndroidOnClickEvent2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
